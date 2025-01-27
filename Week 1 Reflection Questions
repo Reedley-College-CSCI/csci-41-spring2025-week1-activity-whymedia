@@ -1,0 +1,8 @@
+How can you use GitHub to collaborate effectively with a team on code projects? Provide specific examples.
+  - Pushing GitHub commits shows a detailed breakdown of changes made to code, including comments added for direction, instruction, or asking for assistance with certain parts of the code
+  - For example, if I needed someone to add a for loop and display message for intTable2 so that it can also be incremented by 5, I could state that in the comments and push my commits to GitHub
+
+What challenges did you face during this lab, and how did you resolve them?
+  - Mostly just my ability to manage time, which in the future I will start a lot earlier (I say this a lot)
+  - However, getting used to GitHub and the Visual Studio interfaces was also a slight challenge, which was addressed by reading, re-reading, and then reading again.
+  - Lastly, it helped to reference some CSCI-40 concepts throughout the actual coding portions for refresher in C++ terminology
